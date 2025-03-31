@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+*.csv
+*.png
+*.h5
+*.pt
+.env
